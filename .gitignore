@@ -1,0 +1,5 @@
+testModel.py
+venv/
+*.dylib
+__pycache__/
+*.so
