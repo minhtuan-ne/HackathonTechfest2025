@@ -11,5 +11,8 @@ Veritas is a Chrome extension powered by an AI-based backend that helps users de
 - NLP & Machine Learning – Uses trained models to analyze text and classify it as real or fake.
 # Frontend (Chrome Extension):
 - JavaScript, HTML, CSS – For a lightweight and responsive UI.
+# How to run:
+- Download the repo to your machine.
+- Go to Extensions/Manage Extensions, choose Developer mode then Load unpacked and choose this repo. Now you can click on the extension to test. 
 
 
