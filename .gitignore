@@ -1,5 +1,33 @@
 testModel.py
+
+# Python virtual environments
 venv/
-*.dylib
+.venv/
+
+# Byte-compiled / optimized / DLL files
 __pycache__/
+*.py[cod]
+*$py.class
 *.so
+*.dylib
+
+# Environment files
+.env
+.env.local
+
+# Test / coverage artifacts
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# OS / editor files
+.DS_Store
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Model artifacts (optional – uncomment if you don't want to track models)
+# model.pkl
